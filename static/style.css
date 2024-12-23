@@ -1,0 +1,61 @@
+.jumbotron {
+    background-color: rgb(231, 200, 143);
+}
+
+.original_title{
+    background-color: rgb(248, 183, 159);
+    font-size: 20px;
+    font-weight: bold ;
+    padding: 2px;
+    display: flex;
+    justify-content: center;
+}
+
+.summary_title{
+    background-color: rgb(207, 228, 176);
+    font-size: 20px;
+    font-weight: bold ;
+    padding: 2px;
+    display: flex;
+    justify-content: center;
+}
+
+
+.srt{
+    display: flex;
+    flex-direction: row;
+}
+
+.originalTxt {
+    background-color: transparent; /* Fond transparent */
+    padding: 20px; /* Espacement interne */
+    border: 2px solid black; /* Bordure noire de 2 pixels */
+    border-radius: 5px; /* Coins arrondis (optionnel) */
+    margin: 10px; /* Espacement autour du cadre */
+}
+
+.summaryTxt {
+    background-color: transparent; /* Fond transparent */
+    padding: 20px; /* Espacement interne */
+    border: 2px solid black; /* Bordure noire de 2 pixels */
+    border-radius: 5px; /* Coins arrondis (optionnel) */
+    margin: 10px; /* Espacement autour du cadre */
+}
+
+.heading{
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+}
+
+
+.lead{
+    display: flex;
+    justify-content: center;
+}
+
+.submit8tn{
+  
+    margin-top: 10px;
+
+}
